@@ -1,0 +1,23 @@
+{
+  "name": "hash_generator",
+  "version": "0.0.1",
+  "description": "A password hash generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanLuttrell/npm-basics.git"
+  },
+  "author": "Ryan Luttrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanLuttrell/npm-basics/issues"
+  },
+  "homepage": "https://github.com/RyanLuttrell/npm-basics#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0"
+  },
+  "devDependencies": {}
+}
